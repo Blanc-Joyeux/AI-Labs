@@ -1,0 +1,25 @@
+
+
+=================================================Requirements for Lab 1=================================================
+
+* Python version 3.6 or latest 3.12
+* An IDE like VSCode or PyCharm
+* 'pygame' library. can be installed using the command 'pip install pygame' in the terminal
+* mastery of Python
+
+
+=================================================Requirements for Lab 2===================================================
+
+* Python version 3.6 or latest 3.12
+* An IDE like VSCode or PyCharm
+* libraries 'pandas', 'scikit-Learn'
+* mastery of Python, Data science
+
+
+
+==================================================Requirements for Lab 3==================================================
+
+* Python version 3.6 or latest 3.12
+* An IDE like VSCode or PyCharm
+* libraries 'pandas', 'scikit-Learn', 'seaborn', 'matplotlib', 'numpy'
+* mastery of Python, Data science, EDA (Exploratoy Data Analysis)
